@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the home page. Cool and good things will go here eventually. 
