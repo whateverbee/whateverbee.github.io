@@ -1,0 +1,40 @@
+
+.site-title a {
+  text-decoration: none;
+}
+
+.site-title {
+  font-size: 2em;
+}
+
+.svg-icon { 
+  width: 25px; 
+  height: 16px; 
+  fill: #828282; 
+  padding-right: 5px; 
+  vertical-align: text-top; 
+}
+
+.nav.footer-nav {
+  background-color: transparent;
+}
+
+.nav-item li,
+.nav-item a {
+  background-color: transparent !important;
+}
+
+.page-body.row {
+  min-height: 100vh !important;
+}
+
+.main-col {
+  min-height: 100vh;
+}
+
+footer {
+  position: absolute;
+  bottom: 3rem;
+  width: 100%;
+  height: 2.5rem;    
+}
